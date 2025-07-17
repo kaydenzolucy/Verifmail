@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## ▶️ Cara Menjalankan
 ```bash
-python verifmail.py
+python bot.py
 ```
 Pilih salah satu layanan email sementara (1–4)
 
