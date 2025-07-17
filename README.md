@@ -31,14 +31,14 @@
 git clone https://github.com/username/verifmail.git
 cd verifmail
 pip install -r requirements.txt
-
+```
 
 ---
 
 ## ▶️ Cara Menjalankan
-
+```bash
 python verifmail.py
-
+```
 Pilih salah satu layanan email sementara (1–4)
 
 Gunakan email tersebut untuk mendaftar di situs target
@@ -50,7 +50,6 @@ Menampilkan pengirim, subjek, dan isi email
 Mendeteksi link verifikasi (jika ada)
 
 Mendeteksi OTP (jika ada)
-
 
 
 
