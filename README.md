@@ -56,7 +56,7 @@ Mendeteksi OTP (jika ada)
 ---
 
 ## 📦 Contoh Output
-
+```bash
 📩 INFORMASI EMAIL:
 Pengirim : support@example.com
 Subjek   : Verifikasi Akun Anda
@@ -72,7 +72,7 @@ Terima kasih telah menggunakan layanan kami.
 Jika tidak ditemukan:
 
 ⚠️ Tidak ada link atau OTP terdeteksi.
-
+```
 
 ---
 
