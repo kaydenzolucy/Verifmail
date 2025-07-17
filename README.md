@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ---
 
-▶️ Cara Menjalankan
+## ▶️ Cara Menjalankan
 
 python verifmail.py
 
@@ -56,7 +56,7 @@ Mendeteksi OTP (jika ada)
 
 ---
 
-📦 Contoh Output
+## 📦 Contoh Output
 
 📩 INFORMASI EMAIL:
 Pengirim : support@example.com
@@ -77,7 +77,7 @@ Jika tidak ditemukan:
 
 ---
 
-⚠️ Catatan Penting
+## ⚠️ Catatan Penting
 
 Script ini hanya digunakan untuk keperluan legal dan edukasi.
 
