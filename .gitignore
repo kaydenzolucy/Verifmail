@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables / credentials
+.env
+*.env
+
+# Editor & OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode settings
+.vscode/
+
+# PyInstaller output
+dist/
+build/
+*.spec
+
+# Log and cache
+*.log
+*.sqlite3
+.cache/
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Rich library cache (optional)
+.rich_traceback.json
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
